@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mojtaba
 - 🎓 Graduate from Yazd University/Iran with bachelor degree. Major in CS.
-- 👀 Interested in C++, Python, Blockchain and Cryptocurrency.💻
-- 🌱 currently learning Solidity and deep learning and ...
+- 🎓 MSc Computer science at Shahid Beheshti University/Iran. Data Mining
+- 👀 Interested in C++, Python, Blockchain, Cryptocurrency, Deep learning, Machine learning and Web3.💻
+- 🌱 currently learning how to build my own GPU miner for cryptocurrencies.🔨
 
 
 <!---
