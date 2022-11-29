@@ -2,7 +2,6 @@
 - 🎓 Graduate from Yazd University/Iran with bachelor degree. Major in CS.
 - 🎓 MSc Computer science at Shahid Beheshti University/Iran. Data Mining
 - 👀 Interested in C++, Python, Blockchain, Cryptocurrency, Deep learning, Machine learning, Web3 and Distributed Systems.💻
-- 🌱 currently learning how to build my own GPU miner for cryptocurrencies.🔨
 
 
 <!---
